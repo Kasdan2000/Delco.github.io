@@ -968,7 +968,7 @@ footer p svg{
     }
 
     .fotosRedimensionadas{
-        display: block;
+        display: block !important;
     }
 
     .grilla article:nth-of-type(1) p {
