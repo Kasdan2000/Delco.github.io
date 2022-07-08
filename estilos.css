@@ -268,7 +268,7 @@ section article{
 }
 
 .fotosRedimensionadas{
-    display:none;
+    display:none !important;
 }
 
 .contenidoDeArticulo h2{
