@@ -316,6 +316,16 @@ article + section h2{
     padding-bottom: 0.85em;
 }
 
+.tel {
+    text-decoration: none !important;
+    color: #009FD9 !important;   
+}
+
+#tel {
+    text-decoration: none !important;
+    color: #363636 !important;
+}
+
 h2 + article{
     background-color: #FFFFFF;
     padding: 1.5em 0;
