@@ -134,9 +134,9 @@ header{
      color: black;
  }
 
- .ventanaModal p span{
-    font-weight: 700;
- }
+ .ventanaModal p span {
+    font-weight: 400;
+}
 
  .ventanaModal div{
      margin: 0.8em 0;
